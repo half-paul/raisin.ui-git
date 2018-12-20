@@ -1,1 +1,2 @@
-ne file in git
+new file in git
+line added
